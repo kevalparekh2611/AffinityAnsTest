@@ -1,0 +1,6 @@
+ Hello, the degree of slurs in each line are ...
+ Line 0001: 0001 
+ Line 0002: 0003 
+ Line 0003: 0000 
+ Line 0004: 0002 
+ Line 0005: 0001 
